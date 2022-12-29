@@ -1,0 +1,50 @@
+{
+  "productList": [
+    {
+      "productName": "Apple",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 250,
+      "comment": "This is my fresh product.",
+      "date": "2022-12-19T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Banana",
+      "category": "Fruits",
+      "freshness": "Second Hand",
+      "price": 100,
+      "comment": "Fresh Product",
+      "date": "2022-12-20T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Headphones",
+      "category": "Electronic",
+      "freshness": "Brand New",
+      "price": 280,
+      "comment": "Boat Branded Headphones.",
+      "date": "2022-12-14T18:30:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "Remote Mouse",
+      "category": "Electronic",
+      "freshness": "Brand New",
+      "price": 550,
+      "comment": "I need 1 Year warranty.",
+      "date": "2022-12-20T18:30:00.000Z",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

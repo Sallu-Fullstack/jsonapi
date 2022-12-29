@@ -1,7 +1,2 @@
----
-layout: default
-title: Home
----
-
-# jsonapi - 🚀😊😍
+# jsonapi - 🚀😊
 This is a simple json server repo.
